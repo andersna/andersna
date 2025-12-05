@@ -25,9 +25,9 @@ Im interested in softwaredevelopment, problem solving and to build cool projects
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIT_BRUGERNAVN&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersna&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIT_BRUGERNAVN&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersna&layout=compact&theme=transparent)
 
 ---
 
