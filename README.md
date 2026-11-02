@@ -1,13 +1,13 @@
 # 👋 Hello there, my name is Anders
 
 Welcome to my GitHub-profile!  
-Im interested in softwaredevelopment, problem solving and to build cool projects.
+Im interested in software development, problem solving and to build cool projects.
 
 ---
 
 ## 🚀 About me
-- 🌱 currently learning: Swift and C#  
-- 🔭 Im working on: Multiple projects, but from january focusing on a native swift app  
+- 🌱 currently learning: Machine learning with pytorch, GOlang.  
+- 🔭 Im working on: Automation 
 - 💬 Ask me about: Coding
 - 🎯 Goal for 2026: Hoaning my skills
 
@@ -16,10 +16,10 @@ Im interested in softwaredevelopment, problem solving and to build cool projects
 ## 🛠️ Tech Stack
 
 **Sprog:**  
-💻 JavaScript • Java • Swift • C# • HTML • CSS
+💻 JavaScript • Java • Swift • C# • HTML • CSS • Python • GOlang • Typescript
 
 **Frameworks / Tools:**  
-⚙️ Vue • Node.js • Next.js • .NET • Git • Docker
+⚙️ Vue • Node.js • Next.js • .NET • Git • Docker • React
 
 ---
 
@@ -34,8 +34,8 @@ Im interested in softwaredevelopment, problem solving and to build cool projects
 ## 🔗 Find me here
 
 - 🌐 Portfolio: N/A
-- 💼 LinkedIn: N/A 
-- 📫 Kontakt: N/A
+- 💼 LinkedIn: [profile](https://www.linkedin.com/in/anders-andersen-30a25612a/) 
+- 📫 Contact: My linkedin
 
 ---
 
