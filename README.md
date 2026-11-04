@@ -49,9 +49,3 @@ A full-stack football data platform for collecting, processing and presenting ma
 - Learning more about Kubernetes and cloud platforms
 - Practising algorithms and data structures
 - Exploring how AI coding tools (Claude Code) fit into a solid review-and-test workflow
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersna&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersna&layout=compact&theme=transparent)
